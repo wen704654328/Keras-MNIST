@@ -1,4 +1,3 @@
 # Keras-MNIST
-a pritice when I learn the book "Deep Learning With Python"
-Keras
-Python3
+a practice when I learn the book "Deep Learning With Python"
+using Keras with Python3
